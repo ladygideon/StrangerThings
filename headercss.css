@@ -1,0 +1,12 @@
+@charset "utf-8";
+#header {
+	background-color: #FFF;
+	height: 73px;
+	width: 950px;
+	font-size: 40px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	background-image: url(pics/timg.jpg);
+	padding-top: 10px;
+	font-family: Verdana;
+}

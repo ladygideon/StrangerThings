@@ -1,0 +1,15 @@
+@charset "utf-8";
+#bottom1{
+	width: 951px;
+	height: 30px;
+	border: 1px dotted #000;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(pics/s2.1.jpg);
+	font-family: "Lucida Sans Unicode";
+	font-size: 16px;
+	font-weight: bolder;
+	color: #FFF;
+	text-align: center;	
+}/* CSS Document */
+
